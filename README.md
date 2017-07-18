@@ -4,5 +4,5 @@ teste 2 adicionando projeto no eclipse
 
 
 ***************************************
-Testando merge e rebase
+Testando merge e rebase *********
 ***************************************
